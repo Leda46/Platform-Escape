@@ -17,4 +17,4 @@ A simple platformer game built with HTML5, JavaScript, and the HTML `<canvas>` e
 - Press the **Arrow Up** key to jump.
 - Avoid obstacles like spikes and fireballs, which end the game if hit.
 - Collect all the items to increase your jump power!
-- Reach the goal to win the game!
+- Reach the green box to win the game!
